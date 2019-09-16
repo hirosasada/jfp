@@ -18,12 +18,12 @@ __________________________________________________________
 **Week 06: [Reading], [Lecture note]**     
 **Week 07: [Reading], [Lecture note]**      
 **Week 08: [Reading], [Lecture note]**    
-**Week 09:** **<font color="Red">Midterm Exam</font>**  
+**Week 09:** **<font color="Brown">Midterm Exam</font>**  
 **Week 10: [Reading], [Lecture note]**    
 **Week 11: [Reading], [Lecture note]**    
 **Week 12: [Reading], [Lecture note]**   
 **Week 13: [Reading], [Lecture note]**   
 **Week 14: [Reading], [Lecture note]**   
 **Week 15: [Reading], [Lecture note]**   
-**Week 16:** **<font color="Red">Final Exam</font>**    
+**Week 16:** **<font color="Brown">Final Exam</font>**    
   
