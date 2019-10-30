@@ -6,7 +6,7 @@
 __________________________________________________________  
   
 ### Revised syllabus  
-  Click [here](https://drive.google.com/open?id=1-ybWD1jrrSDYuLah5E2NKuCBrC5du2FW) to downloard   
+  Click [here](https://drive.google.com/open?id=1IdM_dVDABh6nGYVpDXvkRj2LmP3icDDG) to downloard   
    
 ### Course Materials and schedule  
   
