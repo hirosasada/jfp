@@ -5,8 +5,8 @@
 - **The files are password-protected.**  
 __________________________________________________________  
   
-### Syllabus  
-  Click [here] to downloard   
+### Revised syllabus  
+  Click [here](https://drive.google.com/open?id=1-ybWD1jrrSDYuLah5E2NKuCBrC5du2FW) to downloard   
    
 ### Course Materials and schedule  
   
