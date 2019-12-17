@@ -18,9 +18,9 @@ __________________________________________________________
 **Week 06-07:** **<font color="Brown">No reading</font>**        
 **Week 08: [Reading 01](https://drive.google.com/open?id=11qef0ZOMVHKxSlgk6ghL0clBbP-gcWav), [Reading 02](https://drive.google.com/open?id=1ZbJRAlBernWs8CXbAegYtJwLRZqGR-yR), [Lecture note](https://drive.google.com/open?id=1I0YAj2ED7xmnu0lfvDt7lXmW2J3717dW)**    
 **Week 09:** **<font color="Brown">Midterm Exam</font>**  
-**Week 10: [Reading], [Lecture note]**    
-**Week 11: [Reading], [Lecture note]**    
-**Week 12: [Reading], [Lecture note]**   
+**Week 10: [Reading](https://drive.google.com/open?id=1TYjSktSu-70ywikP5J6GQdS91hADxTHC), [Lecture note]**    
+**Week 11: [Reading](https://drive.google.com/open?id=1UT8wo9f5YxC5h4UfPR0PVRhpn6CZTaJ8), [Lecture note]**    
+**Week 12: [Reading](https://drive.google.com/open?id=1t5RBqe80n_cMnRy6Ae1hq32KRfTiZQS2), [Lecture note]**   
 **Week 13: [Reading], [Lecture note]**   
 **Week 14: [Reading], [Lecture note]**   
 **Week 15: [Reading], [Lecture note]**   
