@@ -23,6 +23,6 @@ __________________________________________________________
 **Week 12: [Reading](https://drive.google.com/open?id=1t5RBqe80n_cMnRy6Ae1hq32KRfTiZQS2), [Lecture note](https://drive.google.com/open?id=1vnlWLWomeiXbz404I1yXg_8FGgEvnpmm)**   
 **Week 13: [Reading](https://drive.google.com/open?id=1mOLA50AI7HkI-Nkytd5T3Ex3eTp2FJaS), [Lecture note]**   
 **Week 14: [Reading](https://drive.google.com/open?id=1jW-YKOyY-6myHcThpCmSiv0coRXb85sN), [Lecture note]**   
-**Week 15: [Reading], [Lecture note]**   
+**Week 15: [Reading](https://drive.google.com/open?id=1VWSnwTgbTg5uPOBydFRDMK1W2rlfyDUt), [Lecture note]**   
 **Week 16:** **<font color="Brown">Final Exam</font>**    
   
